@@ -73,10 +73,10 @@ My flagship project, **StringTopia**, is a live e-commerce platform with Paymob 
 
 | Project | What it does | Tech | Links |
 |---|---|---|---|
-| **StringTopia** ⭐ | Full-stack e-commerce platform for handmade crochet products. Product search, category filtering, galleries, guest checkout, delivery / gift / pickup options, made-to-order reservations, and an admin dashboard. Includes server-side pricing validation, atomic inventory updates, and HMAC verification of Paymob payment callbacks. | Next.js · Node.js · Express · MongoDB · Tailwind CSS · Paymob · Cloudinary | [Live demo](https://YOUR_STRINGTOPIA_URL) · [Code](https://github.com/Tasneem849/STRINGTOPIA_REPO) |
-| **Responsive Chat App** | Real-time messaging app with bidirectional communication, user management, and persistent chat history. | MongoDB · Express · React · Node.js · Socket.IO | [Code](https://github.com/Tasneem849/CHAT_APP_REPO) |
-| **Thinkboard** | Note and idea management app with full CRUD, backed by REST APIs and MongoDB. | MongoDB · Express · React · Node.js | [Code](https://github.com/Tasneem849/THINKBOARD_REPO) |
-| **CourseConnect** | Graduation project: a course recommendation platform built with a team of four. I contributed to both the frontend and backend. | Django · SQLite · Machine Learning | [Code](https://github.com/Tasneem849/COURSECONNECT_REPO) |
+| **StringTopia** ⭐ | Full-stack e-commerce platform for handmade crochet products. Product search, category filtering, galleries, guest checkout, delivery / gift / pickup options, made-to-order reservations, and an admin dashboard. Includes server-side pricing validation, atomic inventory updates, and HMAC verification of Paymob payment callbacks. | Next.js · Node.js · Express · MongoDB · Tailwind CSS · Paymob · Cloudinary | [Live demo](https://stringtopia-e-commerece-xcye.vercel.app) · [Code](https://github.com/Tasneem849/Stringtopia-E-Commerce) |
+| **Responsive Chat App** | Real-time messaging app with bidirectional communication, user management, and persistent chat history. | MongoDB · Express · React · Node.js · Socket.IO | [Code](https://github.com/Tasneem849/MERN-Chat-App) |
+| **Thinkboard** | Note and idea management app with full CRUD, backed by REST APIs and MongoDB. | MongoDB · Express · React · Node.js | [Code](https://github.com/Tasneem849/MERN-Thinkboard-App) |
+| **CourseConnect** | Graduation project: a course recommendation platform built with a team of four. I contributed to both the frontend and backend. | Django · SQLite · Machine Learning | [Code](https://github.com/zainbmaged/CourseConnect) |
 
 ---
 
